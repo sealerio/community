@@ -64,7 +64,7 @@ maintainer.
 ## How to make decision
 
 Sealer is an open-source project illustrating the concept of open. This
-means that Dragonfly repository is the source of truth for every aspect of the
+means that Sealer repository is the source of truth for every aspect of the
 project, including raw value, design, doc, roadmap, interfaces and so on. If it
 is one part of the project, it should be in the repo.
 
