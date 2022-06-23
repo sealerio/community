@@ -12,23 +12,24 @@ sealer community has a mandate to facilitate driving neutral consensus for:
 
 sealer team and any users can join the collaboration meeting. If you have
 proposal before the meeting, please contact with us on GitHub in issues within
-this repo. sealer's community meeting is totally in public.
+this repo. 
 
 Meeting agenda:
 
-* a brief sync-up after last meeting, including feature, test, document and so
+- a brief sync-up after last meeting, including feature, test, document and so
 on;
-* group discussion on design review, and code review if needed;
-* work planned before next meeting;
-* free talk.
+- group discussion on design review, and code review if needed;
+- work planned before next meeting;
+- free talk.
 
-Meeting Address(Online):
+sealer's maintainers meeting is totally in public.
 
-* [DingTalk](https://www.dingtalk.com/): dingtalk://dingtalkclient/page/videoConfFromCalendar?confId=4b9673e3-1eb8-48fa-aac5-8cedf112acd0&calendarId=1707890802
-
-Meeting Time Monthly:
-
-* 7:00-8:00 PM GMT+8 (Beijing Time) first Wednesday of each month.
+- Meeting Address(Online):
+  - [DingTalk](https://www.dingtalk.com/): dingtalk://dingtalkclient/page/videoConfFromCalendar?confId=4b9673e3-1eb8-48fa-aac5-8cedf112acd0&calendarId=1707890802
+- Meeting Time Monthly:
+  - 7:00-8:00 PM GMT+8 (Beijing Time) first Wednesday of each month.
+- Meeting Notes:
+  - https://docs.google.com/document/d/1SUTknamR2mmAh6-RCAVNBBUKgcU-uqQ5-fTy5BMArVI/edit?usp=sharing
 
 ## Maintainers Meeting
 
@@ -42,13 +43,12 @@ meeting is as following:
 
 sealer's maintainers meeting is totally in public.
 
-Meeting Address(Online):
-
-* [DingTalk](https://www.dingtalk.com/): dingtalk://dingtalkclient/page/videoConfFromCalendar?confId=f3a1e3ee-b98f-4654-9340-a2bd706e5f1b&calendarId=1752068350
-
-Meeting Time Monthly:
-
-* 8:00-8:30 PM GMT+8 (Beijing Time) every two Wednesday.
+- Meeting Address(Online):
+  - [DingTalk](https://www.dingtalk.com/): dingtalk://dingtalkclient/page/videoConfFromCalendar?confId=f3a1e3ee-b98f-4654-9340-a2bd706e5f1b&calendarId=1752068350
+- Meeting Time:
+  - 8:00-8:30 PM GMT+8 (Beijing Time) every two Wednesday.
+- Meeting notes: 
+  - https://docs.google.com/document/d/1mSN5aJfsAl-FgdIqyEAoC7XIDPDFFDRHtdgyCq2ue5o/edit?usp=sharing
 
 ## Project Governance Rules
 
